@@ -457,6 +457,7 @@
 - **[Designrush Bussiness Search Scraper](https://apify.com/stealth_mode/designrush-bussiness-search-scraper)** — Efficiently scrape business listings from DesignRush.com.
 - **[Booksy Business Search Scraper](https://apify.com/stealth_mode/booksy-business-search-scraper)** — Scrape Booksy.com business listings with services, reviews, pricing, contact info.
 - **[Smartcustomer Reviews Scraper](https://apify.com/stealth_mode/smartcustomer-reviews-scraper)** — Scrape tour product data from Smartcustomer.com with 50+ fields (tagged Lead Gen).
+- **[2gis Place Search Scraper](https://apify.com/stealth_mode/2gis-place-search-scraper)** — Scrape detailed business and location information from 2GIS across 22+ regions and countries. Extract addresses, reviews, contact info, photos, and 25+ fields per place — ideal for location intelligence, market research, and business analytics.
 
 ## 📰 News
 
@@ -472,7 +473,7 @@
 ## 🔧 Other
 
 - **[Rappi Restaurants Search Scraper](https://apify.com/stealth_mode/rappi-restaurants-search-scraper)** — Scrape product listings and restaurant data from Rappi across Latin American markets.
-
+- **[Web Content Scraper](https://apify.com/stealth_mode/web-content-scraper)** — Scrape web pages effortlessly with undetected browser technology. Extract HTML, markdown, JavaScript results, and cookies from any URL. Features configurable timeouts, proxy support, and retry logic — ideal for content aggregation, data extraction, and automated workflows without detection.
 ---
 
 ## ⭐ Reviews
@@ -519,5 +520,4 @@
 - **[Hostelworld Reviews Scraper](https://apify.com/stealth_mode/hostelworld-reviews-scraper)** — Collect guest reviews from Hostelworld.com hotel pages in bulk.
 - **[Kayak Reviews Scraper](https://apify.com/stealth_mode/kayak-reviews-scraper)** — Scrape hotel reviews from KAYAK.com/hotelscombined.com.
 - **[Wego Reviews Scraper](https://apify.com/stealth_mode/wego-reviews-scraper)** — Scrape hotel reviews from Wego.com by hotel ID.
-
 ---
