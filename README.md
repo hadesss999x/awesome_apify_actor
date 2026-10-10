@@ -469,6 +469,9 @@
 - **[Eventbrite Events Search Scraper](https://apify.com/stealth_mode/eventbrite-events-search-scraper)** — Scrape Eventbrite event listings from search results pages in bulk.
 - **[Marinetraffic Realtime Data Scraper](https://apify.com/stealth_mode/marinetraffic-realtime-data-scraper)** — Scrape live vessel positions, speed, and ship details from MarineTraffic.com.
 - **[Bloomberg Articles Details Scraper](https://apify.com/stealth_mode/bloomberg-articles-details-scraper)** — Scrape in-depth Bloomberg article data with 70+ structured fields.
+- **[Ticketmaster Events Search Scraper](https://apify.com/stealth_mode/ticketmaster-events-search-scraper)** — Ticketmaster Events scraper for concerts, sports & theater events. Search by URL or filters (keyword, location, dates) and extract venue, pricing, availability & cancellation data in seconds. Supports residential proxies, retry on failure, and JSON/CSV/Excel export for analytics-ready datasets.
+- **[Ticketmaster Ticket Listings Scraper](https://apify.com/stealth_mode/ticketmaster-ticket-listings-scraper)** — Scrape Ticketmaster ticket listings across all domains to extract seat details, pricing, sections, and availability. Perfect for event analytics, price monitoring, and secondary market research. Get 16 fields per ticket including ID, section, row, price, and quality attributes.
+- **[Seatgeek Tickets Listings Scraper](https://apify.com/stealth_mode/seatgeek-tickets-listings-scraper)** — Scrape detailed ticket listings from SeatGeek with seat-level precision. Collect 45+ fields per listing including pricing, seat locations, delivery methods, and seller info — essential for ticket aggregators, resellers, and event data analysts.
 
 ## 🔧 Other
 
