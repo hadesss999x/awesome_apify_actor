@@ -472,6 +472,7 @@
 - **[Ticketmaster Events Search Scraper](https://apify.com/stealth_mode/ticketmaster-events-search-scraper)** — Ticketmaster Events scraper for concerts, sports & theater events. Search by URL or filters (keyword, location, dates) and extract venue, pricing, availability & cancellation data in seconds. Supports residential proxies, retry on failure, and JSON/CSV/Excel export for analytics-ready datasets.
 - **[Ticketmaster Ticket Listings Scraper](https://apify.com/stealth_mode/ticketmaster-ticket-listings-scraper)** — Scrape Ticketmaster ticket listings across all domains to extract seat details, pricing, sections, and availability. Perfect for event analytics, price monitoring, and secondary market research. Get 16 fields per ticket including ID, section, row, price, and quality attributes.
 - **[Seatgeek Tickets Listings Scraper](https://apify.com/stealth_mode/seatgeek-tickets-listings-scraper)** — Scrape detailed ticket listings from SeatGeek with seat-level precision. Collect 45+ fields per listing including pricing, seat locations, delivery methods, and seller info — essential for ticket aggregators, resellers, and event data analysts.
+- **[Sympla Event Listings Scraper](https://apify.com/stealth_mode/sympla-event-listings-scraper)** — Scrape detailed event listings from Sympla.com.br with advanced filters. Collect event names, descriptions, venues, pricing, organizer info, and 30+ fields per listing — perfect for event aggregators, market research, and event analytics.
 
 ## 🔧 Other
 
