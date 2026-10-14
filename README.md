@@ -349,6 +349,7 @@
 - **[Blocket Cars Search Scraper](https://apify.com/stealth_mode/blocket-cars-search-scraper)** — Scrape car listings from Blocket.se — Sweden's largest marketplace.
 - **[Opensooq Product Search Scraper](https://apify.com/stealth_mode/opensooq-product-search-scraper)** — Scrape product listings from OpenSooq.com across all supported countries.
 - **[Carzone Cars Search Scraper](https://apify.com/stealth_mode/carzone-cars-search-scraper)** — Scrape structured car listing data from Carzone.ie search results pages.
+- **[Depop Product Search Scraper](https://apify.com/stealth_mode/depop-product-search-scraper)** — Scrape product listings from Depop with precision. Collect brand names, descriptions, pricing, images, locations, and 18+ fields per item. Perfect for fashion resellers, market researchers, and e-commerce professionals tracking secondhand trends.
 
 ## 💼 Jobs
 
