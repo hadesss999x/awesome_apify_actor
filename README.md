@@ -108,6 +108,7 @@
 - **[Rumah123 Property Search Scraper](https://apify.com/stealth_mode/rumah123-property-search-scraper)** — Scrape comprehensive property listings from Rumah123.com, Indonesia's leading real estate marketplace.
 - **[Zimmo Property Search Scraper](https://apify.com/stealth_mode/zimmo-property-search-scraper)** — Scrape property listings from Zimmo.be with prices, energy labels, advertiser info.
 - **[Chavesnamao Automotive Search Scraper](https://apify.com/stealth_mode/chavesnamao-automotive-search-scraper)** — Scrape detailed used car listings from Chavesnamao.com.br (real estate category tag).
+- **[Rentola Property Search Scraper](https://apify.com/stealth_mode/rentola-property-search-scraper)** — Scrape property listings from Rentola.com with complete rental data. Collect titles, addresses, prices, contact info, photos, and coordinates for studios, apartments, and more — perfect for market research and real estate analytics.
 
 ## 🛒 E-commerce
 
@@ -503,7 +504,6 @@
 - **[Magazineluiza Product Reviews Scraper](https://apify.com/stealth_mode/magazineluiza-product-reviews-scraper)** — Extract product reviews from MagazineLuiza.com.br.
 - **[Wildberries Product Reviews Scraper](https://apify.com/stealth_mode/wildberries-product-reviews-scraper)** — Extract comprehensive product reviews from Wildberries.ru.
 - **[Viator Reviews Scraper](https://apify.com/stealth_mode/viator-reviews-scraper)** — Extract customer reviews from Viator.com tours and activities.
-- **[Gartner Reviews Scraper](https://apify.com/stealth_mode/gartner-reviews-scraper)** — Scrape comprehensive product reviews from Gartner Peer Insights.
 - **[Trustpilot Reviews Scraper](https://apify.com/stealth_mode/trustpilot-reviews-scraper)** — Automatically scrape Trustpilot reviews, ratings, and customer feedback data.
 - **[Flipkart Reviews Scraper](https://apify.com/stealth_mode/flipkart-reviews-scraper)** — Scrape comprehensive product reviews from Flipkart.com.
 - **[Goodreads Books Reviews Scraper](https://apify.com/stealth_mode/goodreads-books-reviews-scraper)** — Scrape book reviews from Goodreads.com with ratings, user profiles, engagement metrics.
