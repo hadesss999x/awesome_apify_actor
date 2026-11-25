@@ -399,6 +399,7 @@
 - **[Snagajob Jobs Search Scraper](https://apify.com/stealth_mode/snagajob-jobs-search-scraper)** — Scrape Snagajob.com search results with structured hourly job data.
 - **[Flexjobs Jobs Search Scraper](https://apify.com/stealth_mode/flexjobs-jobs-search-scraper)** — Scrape FlexJobs.com job search results with 50+ data fields per listing.
 - **[Dice Jobs Search Scraper](https://apify.com/stealth_mode/dice-jobs-search-scraper)** — Scrape tech job listings from Dice.com search results.
+- **[Mycareersfuture Jobs Search Scraper](https://apify.com/stealth_mode/mycareersfuture-jobs-search-scraper)** — Scrape MyCareersFuture job listings by keyword, salary, employment type, and job level. Get structured data including titles, SGD salary ranges, skills, company details, locations, and posting dates for Singapore job market analysis.
 
 ## ✈️ Travel
 
@@ -460,6 +461,8 @@
 - **[Booksy Business Search Scraper](https://apify.com/stealth_mode/booksy-business-search-scraper)** — Scrape Booksy.com business listings with services, reviews, pricing, contact info.
 - **[Smartcustomer Reviews Scraper](https://apify.com/stealth_mode/smartcustomer-reviews-scraper)** — Scrape tour product data from Smartcustomer.com with 50+ fields (tagged Lead Gen).
 - **[2gis Place Search Scraper](https://apify.com/stealth_mode/2gis-place-search-scraper)** — Scrape detailed business and location information from 2GIS across 22+ regions and countries. Extract addresses, reviews, contact info, photos, and 25+ fields per place — ideal for location intelligence, market research, and business analytics.
+- **[Theknot Vendors Search Scraper](https://apify.com/stealth_mode/theknot-vendors-search-scraper)** — Scrape wedding vendor listings from The Knot marketplace. Collect names, ratings, reviews, locations, categories, and contact details from search pages, with up to 100 items per URL and exports to JSON, CSV, or Excel. Ideal for wedding planners, agencies, and market researchers.
+- **[Zola Vendors Search Scraper](https://apify.com/stealth_mode/zola-vendors-search-scraper)** — Extract wedding vendor listings from Zola search result pages in a single run. Capture names, categories, locations, ratings, reviews, pricing, and contact details for market research, competitor analysis, and lead generation. Export structured results to JSON, CSV, or Excel for easy analysis.
 
 ## 📰 News
 
